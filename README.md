@@ -1,5 +1,5 @@
 ### Hi there 👋
-  Im Patrick Lugassy⚡ 
+  Im Patrick Lugassy⚡ <br /> 
  ✨A Software Engineering Student :pencil2:
  📫 How to reach me: patriklug@gmail.com
 <!--
