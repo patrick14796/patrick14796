@@ -1,7 +1,10 @@
 ### Hi there 👋
-  Im Patrick Lugassy⚡ <br /> 
- ✨A Software Engineering Student :pencil2:
- 📫 How to reach me: patriklug@gmail.com
+   ⚡Im Patrick Lugassy⚡ <br /> 
+ ✨A Software Engineering Student :pencil2: <br />
+ :books: I’m currently learning: JS, Linux , Python <br />
+ :rocket: Skills: C , C++ , Python , SQL , Java  :rocket: <br />
+ 📫 Feel Free To Contact Me at: patriklug@gmail.com <br />
+ 
 <!--
 **patrick14796/patrick14796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
