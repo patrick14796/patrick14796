@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+  Im Patrick Lugassy⚡ 
+ ✨A Software Engineering Student :pencil2:
+ 📫 How to reach me: patriklug@gmail.com
 <!--
 **patrick14796/patrick14796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
